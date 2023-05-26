@@ -8,6 +8,9 @@ body {
 .titulo-300{
     font-weight:300;
 }
+.titulo-500{
+    font-weight:500;
+}
 .color-fa{
     color: #b0b4ba;
 }
