@@ -2,8 +2,9 @@ body {
     font-family: 'Roboto', sans-serif;
     font-size: 300;
 }
-.precio_descuento {
-
+.ancho-logo{
+     width:6.5rem;
+    height:2.5rem;
 }
 .titulo-300{
     font-weight:300;
